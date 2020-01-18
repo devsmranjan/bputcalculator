@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/bputcalculator/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/bputcalculator/static/js/main.58baa308.chunk.js",
+    "main.js.map": "/bputcalculator/static/js/main.58baa308.chunk.js.map",
+    "runtime-main.js": "/bputcalculator/static/js/runtime-main.4049ff5f.js",
+    "runtime-main.js.map": "/bputcalculator/static/js/runtime-main.4049ff5f.js.map",
+    "static/css/2.2aac4375.chunk.css": "/bputcalculator/static/css/2.2aac4375.chunk.css",
+    "static/js/2.ec8ce410.chunk.js": "/bputcalculator/static/js/2.ec8ce410.chunk.js",
+    "static/js/2.ec8ce410.chunk.js.map": "/bputcalculator/static/js/2.ec8ce410.chunk.js.map",
+    "index.html": "/bputcalculator/index.html",
+    "precache-manifest.beb8b1688e628c8a55f9f6c9053b72e7.js": "/bputcalculator/precache-manifest.beb8b1688e628c8a55f9f6c9053b72e7.js",
+    "service-worker.js": "/bputcalculator/service-worker.js",
+    "static/css/2.2aac4375.chunk.css.map": "/bputcalculator/static/css/2.2aac4375.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/bputcalculator/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.ec8ce410.chunk.js.LICENSE": "/bputcalculator/static/js/2.ec8ce410.chunk.js.LICENSE",
+    "static/media/bput_logo.jpeg": "/bputcalculator/static/media/bput_logo.1db4e6a0.jpeg",
+    "static/media/index.css": "/bputcalculator/static/media/special-elite-latin-400.b5aa4e8e.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4049ff5f.js",
+    "static/css/2.2aac4375.chunk.css",
+    "static/js/2.ec8ce410.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.58baa308.chunk.js"
+  ]
+}
