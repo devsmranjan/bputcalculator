@@ -14,6 +14,7 @@
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "react-scripts": "3.3.0",
+    "typeface-poppins": "0.0.72",
     "typeface-special-elite": "0.0.72"
   },
   "scripts": {
