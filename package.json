@@ -2,7 +2,7 @@
   "name": "bputcalculator",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://devsmranjan.github.io/bput-calculator",
+  "homepage": "https://devsmranjan.github.io/bputcalculator",
   "dependencies": {
     "@material-ui/core": "^4.8.3",
     "@material-ui/icons": "^4.5.1",
