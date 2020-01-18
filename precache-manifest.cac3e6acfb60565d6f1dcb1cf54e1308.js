@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "30f042083ae015ccb31846050a5fa318",
+    "revision": "6d839abf34eeea7ddac59857cbeea859",
     "url": "/bputcalculator/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bputcalculator/static/css/2.0664d851.chunk.css"
   },
   {
-    "revision": "36ce71eb30601e25249c",
+    "revision": "11948ffdc3c94dadd3d0",
     "url": "/bputcalculator/static/css/main.5ecd60fb.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bputcalculator/static/js/2.b4811d6e.chunk.js.LICENSE"
   },
   {
-    "revision": "36ce71eb30601e25249c",
-    "url": "/bputcalculator/static/js/main.0c1e8b24.chunk.js"
+    "revision": "11948ffdc3c94dadd3d0",
+    "url": "/bputcalculator/static/js/main.7fc39489.chunk.js"
   },
   {
     "revision": "3535cd50300083cbd2f2",

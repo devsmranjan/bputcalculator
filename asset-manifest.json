@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/bputcalculator/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/bputcalculator/static/js/main.0c1e8b24.chunk.js",
-    "main.js.map": "/bputcalculator/static/js/main.0c1e8b24.chunk.js.map",
+    "main.js": "/bputcalculator/static/js/main.7fc39489.chunk.js",
+    "main.js.map": "/bputcalculator/static/js/main.7fc39489.chunk.js.map",
     "runtime-main.js": "/bputcalculator/static/js/runtime-main.4049ff5f.js",
     "runtime-main.js.map": "/bputcalculator/static/js/runtime-main.4049ff5f.js.map",
     "static/css/2.0664d851.chunk.css": "/bputcalculator/static/css/2.0664d851.chunk.css",
     "static/js/2.b4811d6e.chunk.js": "/bputcalculator/static/js/2.b4811d6e.chunk.js",
     "static/js/2.b4811d6e.chunk.js.map": "/bputcalculator/static/js/2.b4811d6e.chunk.js.map",
     "index.html": "/bputcalculator/index.html",
-    "precache-manifest.ce2fc4fef372d3b02a42b5696a226922.js": "/bputcalculator/precache-manifest.ce2fc4fef372d3b02a42b5696a226922.js",
+    "precache-manifest.cac3e6acfb60565d6f1dcb1cf54e1308.js": "/bputcalculator/precache-manifest.cac3e6acfb60565d6f1dcb1cf54e1308.js",
     "service-worker.js": "/bputcalculator/service-worker.js",
     "static/css/2.0664d851.chunk.css.map": "/bputcalculator/static/css/2.0664d851.chunk.css.map",
     "static/css/main.5ecd60fb.chunk.css.map": "/bputcalculator/static/css/main.5ecd60fb.chunk.css.map",
@@ -22,6 +22,6 @@
     "static/css/2.0664d851.chunk.css",
     "static/js/2.b4811d6e.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.0c1e8b24.chunk.js"
+    "static/js/main.7fc39489.chunk.js"
   ]
 }
