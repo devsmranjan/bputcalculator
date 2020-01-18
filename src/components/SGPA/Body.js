@@ -197,7 +197,7 @@ const Body = ({ dataFromAPI }) => {
                     ? `Your last SGPA is ${localStorage.getItem(
                           'sgpa'
                       )}`
-                    : 'Hey! You are calculating for the first time.'}
+                    : 'Hey! You are calculating for the first time'}
             </Typography>
             <Box height="24px" />
             <SelectContainer
