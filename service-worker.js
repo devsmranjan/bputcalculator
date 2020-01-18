@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/bputcalculator/precache-manifest.beb8b1688e628c8a55f9f6c9053b72e7.js"
+  "/bputcalculator/precache-manifest.ce2fc4fef372d3b02a42b5696a226922.js"
 );
 
 self.addEventListener('message', (event) => {
