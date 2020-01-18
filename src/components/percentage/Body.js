@@ -46,7 +46,7 @@ const Body = () => {
 
 
     return (
-        <div>
+        <Box p={3}>
             <Typography variant="h6" align="center">
                 {localStorage.getItem('perecntage') !== null
                     ? `Your last Percentage is ${localStorage.getItem(
@@ -104,7 +104,7 @@ const Body = () => {
                     </IconButton>
                 }
             />
-        </div>
+        </Box>
     );
 };
 

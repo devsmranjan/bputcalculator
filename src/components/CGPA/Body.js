@@ -89,12 +89,10 @@ const Body = () => {
     };
 
     return (
-        <div>
+        <Box p={3}>
             <Typography variant="h6" align="center">
                 {localStorage.getItem('cgpa') !== null
-                    ? `Your last CGPA is ${localStorage.getItem(
-                          'cgpa'
-                      )}`
+                    ? `Your last CGPA is ${localStorage.getItem('cgpa')}`
                     : 'Hey! You are calculating for the first time.'}
             </Typography>
             <Box height="24px" />
@@ -106,20 +104,24 @@ const Body = () => {
                 handleConfirm={handleConfirm}
             />
             <Box height="24px" />
-            {allSemesters.length !== 0 ? <div>
-                <Divider />
-                <Box height="24px" />
-                <DataContainer
-                    allSemesters={allSemesters}
-                    handleSemester={handleSemester}
-                />
-                <Box height="36px" />
+            {allSemesters.length !== 0 ? (
+                <div>
+                    <Divider />
+                    <Box height="24px" />
+                    <DataContainer
+                        allSemesters={allSemesters}
+                        handleSemester={handleSemester}
+                    />
+                    <Box height="36px" />
 
-                <Box align="center">
-                    <CalculationButton handelCalculate={handelCalculate} />
-                </Box>
-                <Box height="60px" />
-            </div> : <div></div>}
+                    <Box align="center">
+                        <CalculationButton handelCalculate={handelCalculate} />
+                    </Box>
+                    <Box height="60px" />
+                </div>
+            ) : (
+                <div></div>
+            )}
 
             <Snackbar
                 open={snackbarOpen}
@@ -142,7 +144,7 @@ const Body = () => {
                     </IconButton>
                 }
             />
-        </div>
+        </Box>
     );
 };
 

@@ -192,23 +192,23 @@ const Body = ({ dataFromAPI }) => {
 
     return (
         <div>
-            <Typography variant="h6" align="center">
-                {localStorage.getItem('sgpa') !== null
-                    ? `Your last SGPA is ${localStorage.getItem(
-                          'sgpa'
-                      )}`
-                    : 'Hey! You are calculating for the first time'}
-            </Typography>
-            <Box height="24px" />
-            <SelectContainer
-                branches={branches}
-                selectedBranch={selectedBranch}
-                semesters={semesters}
-                selectedSemester={selectedSemester}
-                handleBranch={handleBranch}
-                handleSemester={handleSemester}
-                handleConfirm={handleConfirm}
-            />
+            <Box p={3}>
+                <Typography variant="h6" align="center">
+                    {localStorage.getItem('sgpa') !== null
+                        ? `Your last SGPA is ${localStorage.getItem('sgpa')}`
+                        : 'Hey! You are calculating for the first time.'}
+                </Typography>
+                <Box height="24px" />
+                <SelectContainer
+                    branches={branches}
+                    selectedBranch={selectedBranch}
+                    semesters={semesters}
+                    selectedSemester={selectedSemester}
+                    handleBranch={handleBranch}
+                    handleSemester={handleSemester}
+                    handleConfirm={handleConfirm}
+                />
+            </Box>
 
             {subjects.length !== 0 ? (
                 <div>

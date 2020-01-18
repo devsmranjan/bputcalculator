@@ -32,7 +32,7 @@ const DataTable = ({
     return (
         <div>
             <Box height="48px" />
-            <TableContainer component={Paper} className="data-table">
+            <TableContainer component={Paper}>
                 <Table>
                     <TableHead>
                         <TableRow>
